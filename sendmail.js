@@ -8,13 +8,13 @@
                 service: 'Gmail',
                 auth: {
                     user: 'compulim.robot@gmail.com',
-                    pass: 'uzhacker'
+                    pass: 'password'
                 }
             }),
             mail = {
                 from: 'Sync TV <compulim.robot@gmail.com>',
                 to: 'William Wong <compulim@hotmail.com>',
-                subject: 'Report of Sync TV)',
+                subject: 'Report of Sync TV',
                 text: text
             }
 
