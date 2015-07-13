@@ -1,0 +1,8 @@
+{
+  "name": "compulim-synctv",
+  "dependencies": {
+    "async": "^1.3.0",
+    "async-linq": "^1.0.4",
+    "nodemailer": "^1.4.0"
+  }
+}
